@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm an enthusiastic learner
 
 <!--
 **Joirid/Joirid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
